@@ -319,6 +319,10 @@
     "named": false
   },
   {
+    "type": "Altitude",
+    "named": false
+  },
+  {
     "type": "Apex",
     "named": false
   },
@@ -332,6 +336,10 @@
   },
   {
     "type": "Average",
+    "named": false
+  },
+  {
+    "type": "BestContactFilter",
     "named": false
   },
   {
@@ -443,6 +451,10 @@
     "named": false
   },
   {
+    "type": "ContactSlotIndex",
+    "named": false
+  },
+  {
     "type": "ContactTypeId",
     "named": false
   },
@@ -464,6 +476,10 @@
   },
   {
     "type": "Density",
+    "named": false
+  },
+  {
+    "type": "DerivativeGain",
     "named": false
   },
   {
@@ -539,6 +555,10 @@
     "named": false
   },
   {
+    "type": "Extended",
+    "named": false
+  },
+  {
     "type": "FilterType",
     "named": false
   },
@@ -571,6 +591,10 @@
     "named": false
   },
   {
+    "type": "FreeSlots",
+    "named": false
+  },
+  {
     "type": "Fuel",
     "named": false
   },
@@ -584,6 +608,10 @@
   },
   {
     "type": "Harvest",
+    "named": false
+  },
+  {
+    "type": "HarvestedHash",
     "named": false
   },
   {
@@ -627,6 +655,10 @@
     "named": false
   },
   {
+    "type": "IntegralGain",
+    "named": false
+  },
+  {
     "type": "InterrogationProgress",
     "named": false
   },
@@ -648,6 +680,10 @@
   },
   {
     "type": "Mature",
+    "named": false
+  },
+  {
+    "type": "MaturityRatio",
     "named": false
   },
   {
@@ -683,11 +719,23 @@
     "named": false
   },
   {
+    "type": "NameHash",
+    "named": false
+  },
+  {
     "type": "NavPoints",
     "named": false
   },
   {
+    "type": "NetworkFault",
+    "named": false
+  },
+  {
     "type": "NextWeatherEventTime",
+    "named": false
+  },
+  {
+    "type": "NextWeatherHash",
     "named": false
   },
   {
@@ -732,70 +780,6 @@
   },
   {
     "type": "Plant",
-    "named": false
-  },
-  {
-    "type": "PlantEfficiency1",
-    "named": false
-  },
-  {
-    "type": "PlantEfficiency2",
-    "named": false
-  },
-  {
-    "type": "PlantEfficiency3",
-    "named": false
-  },
-  {
-    "type": "PlantEfficiency4",
-    "named": false
-  },
-  {
-    "type": "PlantGrowth1",
-    "named": false
-  },
-  {
-    "type": "PlantGrowth2",
-    "named": false
-  },
-  {
-    "type": "PlantGrowth3",
-    "named": false
-  },
-  {
-    "type": "PlantGrowth4",
-    "named": false
-  },
-  {
-    "type": "PlantHash1",
-    "named": false
-  },
-  {
-    "type": "PlantHash2",
-    "named": false
-  },
-  {
-    "type": "PlantHash3",
-    "named": false
-  },
-  {
-    "type": "PlantHash4",
-    "named": false
-  },
-  {
-    "type": "PlantHealth1",
-    "named": false
-  },
-  {
-    "type": "PlantHealth2",
-    "named": false
-  },
-  {
-    "type": "PlantHealth3",
-    "named": false
-  },
-  {
-    "type": "PlantHealth4",
     "named": false
   },
   {
@@ -883,6 +867,10 @@
     "named": false
   },
   {
+    "type": "ProportionalGain",
+    "named": false
+  },
+  {
     "type": "Quantity",
     "named": false
   },
@@ -911,7 +899,63 @@
     "named": false
   },
   {
+    "type": "RatioHelium",
+    "named": false
+  },
+  {
+    "type": "RatioHeliumInput",
+    "named": false
+  },
+  {
+    "type": "RatioHeliumOutput",
+    "named": false
+  },
+  {
+    "type": "RatioHydrazine",
+    "named": false
+  },
+  {
+    "type": "RatioHydrazineInput",
+    "named": false
+  },
+  {
+    "type": "RatioHydrazineOutput",
+    "named": false
+  },
+  {
+    "type": "RatioHydrochloricAcid",
+    "named": false
+  },
+  {
+    "type": "RatioHydrochloricAcidInput",
+    "named": false
+  },
+  {
+    "type": "RatioHydrochloricAcidOutput",
+    "named": false
+  },
+  {
     "type": "RatioHydrogen",
+    "named": false
+  },
+  {
+    "type": "RatioHydrogenInput",
+    "named": false
+  },
+  {
+    "type": "RatioHydrogenOutput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidAlcohol",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidAlcoholInput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidAlcoholOutput",
     "named": false
   },
   {
@@ -935,7 +979,51 @@
     "named": false
   },
   {
+    "type": "RatioLiquidHydrazine",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidHydrazineInput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidHydrazineOutput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidHydrochloricAcid",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidHydrochloricAcidInput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidHydrochloricAcidOutput",
+    "named": false
+  },
+  {
     "type": "RatioLiquidHydrogen",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidHydrogenInput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidHydrogenOutput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidMethane",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidMethaneInput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidMethaneOutput",
     "named": false
   },
   {
@@ -999,6 +1087,18 @@
     "named": false
   },
   {
+    "type": "RatioLiquidOzone",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidOzoneInput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidOzoneOutput",
+    "named": false
+  },
+  {
     "type": "RatioLiquidPollutant",
     "named": false
   },
@@ -1019,6 +1119,30 @@
     "named": false
   },
   {
+    "type": "RatioLiquidSilanol",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidSilanolInput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidSilanolOutput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidSodiumChloride",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidSodiumChlorideInput",
+    "named": false
+  },
+  {
+    "type": "RatioLiquidSodiumChlorideOutput",
+    "named": false
+  },
+  {
     "type": "RatioLiquidVolatiles",
     "named": false
   },
@@ -1036,6 +1160,18 @@
   },
   {
     "type": "RatioLiquidVolatilesOutput2",
+    "named": false
+  },
+  {
+    "type": "RatioMethane",
+    "named": false
+  },
+  {
+    "type": "RatioMethaneInput",
+    "named": false
+  },
+  {
+    "type": "RatioMethaneOutput",
     "named": false
   },
   {
@@ -1099,6 +1235,18 @@
     "named": false
   },
   {
+    "type": "RatioOzone",
+    "named": false
+  },
+  {
+    "type": "RatioOzoneInput",
+    "named": false
+  },
+  {
+    "type": "RatioOzoneOutput",
+    "named": false
+  },
+  {
     "type": "RatioPollutant",
     "named": false
   },
@@ -1120,6 +1268,26 @@
   },
   {
     "type": "RatioPollutedWater",
+    "named": false
+  },
+  {
+    "type": "RatioPollutedWaterInput",
+    "named": false
+  },
+  {
+    "type": "RatioPollutedWaterOutput",
+    "named": false
+  },
+  {
+    "type": "RatioSilanol",
+    "named": false
+  },
+  {
+    "type": "RatioSilanolInput",
+    "named": false
+  },
+  {
+    "type": "RatioSilanolOutput",
     "named": false
   },
   {
@@ -1215,6 +1383,10 @@
     "named": false
   },
   {
+    "type": "Reset",
+    "named": false
+  },
+  {
     "type": "ReturnFuelCost",
     "named": false
   },
@@ -1235,7 +1407,15 @@
     "named": false
   },
   {
+    "type": "SeedingRatio",
+    "named": false
+  },
+  {
     "type": "SemiMajorAxis",
+    "named": false
+  },
+  {
+    "type": "Setpoint",
     "named": false
   },
   {
@@ -1295,6 +1475,10 @@
     "named": false
   },
   {
+    "type": "StackSize",
+    "named": false
+  },
+  {
     "type": "Stress",
     "named": false
   },
@@ -1308,6 +1492,14 @@
   },
   {
     "type": "TargetPadIndex",
+    "named": false
+  },
+  {
+    "type": "TargetPrefabHash",
+    "named": false
+  },
+  {
+    "type": "TargetSlotIndex",
     "named": false
   },
   {
@@ -1400,6 +1592,10 @@
   },
   {
     "type": "TotalQuantity",
+    "named": false
+  },
+  {
+    "type": "TotalSlots",
     "named": false
   },
   {
@@ -1516,6 +1712,14 @@
   },
   {
     "type": "bdnsal",
+    "named": false
+  },
+  {
+    "type": "bdnvl",
+    "named": false
+  },
+  {
+    "type": "bdnvs",
     "named": false
   },
   {
@@ -1723,6 +1927,14 @@
     "named": false
   },
   {
+    "type": "clr",
+    "named": false
+  },
+  {
+    "type": "clrd",
+    "named": false
+  },
+  {
     "type": "cos",
     "named": false
   },
@@ -1759,6 +1971,10 @@
     "named": false
   },
   {
+    "type": "ext",
+    "named": false
+  },
+  {
     "type": "floor",
     "named": false
   },
@@ -1777,6 +1993,10 @@
   {
     "type": "identifier",
     "named": true
+  },
+  {
+    "type": "ins",
+    "named": false
   },
   {
     "type": "invalid_instruction",
@@ -1820,6 +2040,10 @@
   },
   {
     "type": "ld",
+    "named": false
+  },
+  {
+    "type": "lerp",
     "named": false
   },
   {
@@ -1899,6 +2123,10 @@
     "named": false
   },
   {
+    "type": "pow",
+    "named": false
+  },
+  {
     "type": "preproc_string",
     "named": true
   },
@@ -1925,6 +2153,14 @@
   {
     "type": "register",
     "named": true
+  },
+  {
+    "type": "rgas",
+    "named": false
+  },
+  {
+    "type": "rmap",
+    "named": false
   },
   {
     "type": "round",
@@ -2072,6 +2308,10 @@
   },
   {
     "type": "tan",
+    "named": false
+  },
+  {
+    "type": "tau",
     "named": false
   },
   {
