@@ -1244,6 +1244,10 @@
           },
           {
             "type": "STRING",
+            "value": "ContactSlotIndex"
+          },
+          {
+            "type": "STRING",
             "value": "ContactTypeId"
           },
           {
@@ -1320,6 +1324,18 @@
           },
           {
             "type": "STRING",
+            "value": "ExportQuantity"
+          },
+          {
+            "type": "STRING",
+            "value": "ExportSlotHash"
+          },
+          {
+            "type": "STRING",
+            "value": "ExportSlotOccupant"
+          },
+          {
+            "type": "STRING",
             "value": "Extended"
           },
           {
@@ -1373,6 +1389,18 @@
           {
             "type": "STRING",
             "value": "ImportCount"
+          },
+          {
+            "type": "STRING",
+            "value": "ImportQuantity"
+          },
+          {
+            "type": "STRING",
+            "value": "ImportSlotHash"
+          },
+          {
+            "type": "STRING",
+            "value": "ImportSlotOccupant"
           },
           {
             "type": "STRING",
@@ -1452,6 +1480,14 @@
           },
           {
             "type": "STRING",
+            "value": "NextWeatherHash"
+          },
+          {
+            "type": "STRING",
+            "value": "None"
+          },
+          {
+            "type": "STRING",
             "value": "On"
           },
           {
@@ -1481,6 +1517,70 @@
           {
             "type": "STRING",
             "value": "Plant"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantEfficiency1"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantEfficiency2"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantEfficiency3"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantEfficiency4"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantGrowth1"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantGrowth2"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantGrowth3"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantGrowth4"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantHash1"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantHash2"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantHash3"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantHash4"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantHealth1"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantHealth2"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantHealth3"
+          },
+          {
+            "type": "STRING",
+            "value": "PlantHealth4"
           },
           {
             "type": "STRING",
@@ -1592,7 +1692,103 @@
           },
           {
             "type": "STRING",
+            "value": "RatioHelium"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHeliumInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHeliumInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHeliumOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHeliumOutput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrazine"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrazineInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrazineInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrazineOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrazineOutput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrochloricAcid"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrochloricAcidInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrochloricAcidInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrochloricAcidOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrochloricAcidOutput2"
+          },
+          {
+            "type": "STRING",
             "value": "RatioHydrogen"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrogenInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrogenInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrogenOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioHydrogenOutput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidAlcohol"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidAlcoholInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidAlcoholInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidAlcoholOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidAlcoholOutput2"
           },
           {
             "type": "STRING",
@@ -1616,7 +1812,83 @@
           },
           {
             "type": "STRING",
+            "value": "RatioLiquidHydrazine"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrazineInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrazineInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrazineOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrazineOutput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrochloricAcid"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrochloricAcidInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrochloricAcidInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrochloricAcidOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrochloricAcidOutput2"
+          },
+          {
+            "type": "STRING",
             "value": "RatioLiquidHydrogen"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrogenInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrogenInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrogenOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidHydrogenOutput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidMethane"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidMethaneInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidMethaneInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidMethaneOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidMethaneOutput2"
           },
           {
             "type": "STRING",
@@ -1680,6 +1952,26 @@
           },
           {
             "type": "STRING",
+            "value": "RatioLiquidOzone"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidOzoneInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidOzoneInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidOzoneOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidOzoneOutput2"
+          },
+          {
+            "type": "STRING",
             "value": "RatioLiquidPollutant"
           },
           {
@@ -1700,23 +1992,63 @@
           },
           {
             "type": "STRING",
-            "value": "RatioLiquidVolatiles"
+            "value": "RatioLiquidSilanol"
           },
           {
             "type": "STRING",
-            "value": "RatioLiquidVolatilesInput"
+            "value": "RatioLiquidSilanolInput"
           },
           {
             "type": "STRING",
-            "value": "RatioLiquidVolatilesInput2"
+            "value": "RatioLiquidSilanolInput2"
           },
           {
             "type": "STRING",
-            "value": "RatioLiquidVolatilesOutput"
+            "value": "RatioLiquidSilanolOutput"
           },
           {
             "type": "STRING",
-            "value": "RatioLiquidVolatilesOutput2"
+            "value": "RatioLiquidSilanolOutput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidSodiumChloride"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidSodiumChlorideInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidSodiumChlorideInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidSodiumChlorideOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioLiquidSodiumChlorideOutput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioMethane"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioMethaneInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioMethaneInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioMethaneOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioMethaneOutput2"
           },
           {
             "type": "STRING",
@@ -1780,6 +2112,26 @@
           },
           {
             "type": "STRING",
+            "value": "RatioOzone"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioOzoneInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioOzoneInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioOzoneOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioOzoneOutput2"
+          },
+          {
+            "type": "STRING",
             "value": "RatioPollutant"
           },
           {
@@ -1804,6 +2156,42 @@
           },
           {
             "type": "STRING",
+            "value": "RatioPollutedWaterInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioPollutedWaterInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioPollutedWaterOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioPollutedWaterOutput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioSilanol"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioSilanolInput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioSilanolInput2"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioSilanolOutput"
+          },
+          {
+            "type": "STRING",
+            "value": "RatioSilanolOutput2"
+          },
+          {
+            "type": "STRING",
             "value": "RatioSteam"
           },
           {
@@ -1821,26 +2209,6 @@
           {
             "type": "STRING",
             "value": "RatioSteamOutput2"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioVolatiles"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioVolatilesInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioVolatilesInput2"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioVolatilesOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioVolatilesOutput2"
           },
           {
             "type": "STRING",
@@ -2133,302 +2501,6 @@
           {
             "type": "STRING",
             "value": "WorkingGasEfficiency"
-          },
-          {
-            "type": "STRING",
-            "value": "ChargeRatio"
-          },
-          {
-            "type": "STRING",
-            "value": "Class"
-          },
-          {
-            "type": "STRING",
-            "value": "ContactSlotIndex"
-          },
-          {
-            "type": "STRING",
-            "value": "Damage"
-          },
-          {
-            "type": "STRING",
-            "value": "Efficiency"
-          },
-          {
-            "type": "STRING",
-            "value": "ExportQuantity"
-          },
-          {
-            "type": "STRING",
-            "value": "ExportSlotHash"
-          },
-          {
-            "type": "STRING",
-            "value": "ExportSlotOccupant"
-          },
-          {
-            "type": "STRING",
-            "value": "FilterType"
-          },
-          {
-            "type": "STRING",
-            "value": "FreeSlots"
-          },
-          {
-            "type": "STRING",
-            "value": "Growth"
-          },
-          {
-            "type": "STRING",
-            "value": "HarvestedHash"
-          },
-          {
-            "type": "STRING",
-            "value": "Health"
-          },
-          {
-            "type": "STRING",
-            "value": "ImportQuantity"
-          },
-          {
-            "type": "STRING",
-            "value": "ImportSlotHash"
-          },
-          {
-            "type": "STRING",
-            "value": "ImportSlotOccupant"
-          },
-          {
-            "type": "STRING",
-            "value": "Mature"
-          },
-          {
-            "type": "STRING",
-            "value": "MaturityRatio"
-          },
-          {
-            "type": "STRING",
-            "value": "MaxQuantity"
-          },
-          {
-            "type": "STRING",
-            "value": "NextWeatherHash"
-          },
-          {
-            "type": "STRING",
-            "value": "None"
-          },
-          {
-            "type": "STRING",
-            "value": "OccupantHash"
-          },
-          {
-            "type": "STRING",
-            "value": "Occupied"
-          },
-          {
-            "type": "STRING",
-            "value": "PressureAir"
-          },
-          {
-            "type": "STRING",
-            "value": "PressureWaste"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHelium"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHeliumInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHeliumOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHydrazine"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHydrazineInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHydrazineOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHydrochloricAcid"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHydrochloricAcidInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHydrochloricAcidOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHydrogenInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioHydrogenOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidAlcohol"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidAlcoholInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidAlcoholOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidHydrazine"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidHydrazineInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidHydrazineOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidHydrochloricAcid"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidHydrochloricAcidInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidHydrochloricAcidOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidHydrogenInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidHydrogenOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidMethane"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidMethaneInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidMethaneOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidOzone"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidOzoneInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidOzoneOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidSilanol"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidSilanolInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidSilanolOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidSodiumChloride"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidSodiumChlorideInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioLiquidSodiumChlorideOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioMethane"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioMethaneInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioMethaneOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioOzone"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioOzoneInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioOzoneOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioPollutedWaterInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioPollutedWaterOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioSilanol"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioSilanolInput"
-          },
-          {
-            "type": "STRING",
-            "value": "RatioSilanolOutput"
-          },
-          {
-            "type": "STRING",
-            "value": "Seeding"
-          },
-          {
-            "type": "STRING",
-            "value": "SeedingRatio"
-          },
-          {
-            "type": "STRING",
-            "value": "SortingClass"
-          },
-          {
-            "type": "STRING",
-            "value": "TotalSlots"
           }
         ]
       }
@@ -2459,6 +2531,10 @@
         {
           "type": "STRING",
           "value": "FilterType"
+        },
+        {
+          "type": "STRING",
+          "value": "FreeSlots"
         },
         {
           "type": "STRING",
@@ -2555,6 +2631,10 @@
         {
           "type": "STRING",
           "value": "Temperature"
+        },
+        {
+          "type": "STRING",
+          "value": "TotalSlots"
         },
         {
           "type": "STRING",
