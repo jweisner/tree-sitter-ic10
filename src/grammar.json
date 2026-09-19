@@ -739,6 +739,10 @@
         },
         {
           "type": "STRING",
+          "value": "clamp"
+        },
+        {
+          "type": "STRING",
           "value": "clr"
         },
         {
@@ -911,6 +915,14 @@
         },
         {
           "type": "STRING",
+          "value": "rol"
+        },
+        {
+          "type": "STRING",
+          "value": "ror"
+        },
+        {
+          "type": "STRING",
           "value": "round"
         },
         {
@@ -968,6 +980,10 @@
         {
           "type": "STRING",
           "value": "sgez"
+        },
+        {
+          "type": "STRING",
+          "value": "sgn"
         },
         {
           "type": "STRING",
@@ -1256,6 +1272,10 @@
           },
           {
             "type": "STRING",
+            "value": "CurrentNodeType"
+          },
+          {
+            "type": "STRING",
             "value": "CurrentResearchPodType"
           },
           {
@@ -1273,6 +1293,14 @@
           {
             "type": "STRING",
             "value": "Discover"
+          },
+          {
+            "type": "STRING",
+            "value": "Dispense"
+          },
+          {
+            "type": "STRING",
+            "value": "DispenseSlot"
           },
           {
             "type": "STRING",
@@ -1301,6 +1329,14 @@
           {
             "type": "STRING",
             "value": "ElevatorSpeed"
+          },
+          {
+            "type": "STRING",
+            "value": "EnergyConvected"
+          },
+          {
+            "type": "STRING",
+            "value": "EnergyRadiated"
           },
           {
             "type": "STRING",
@@ -1372,7 +1408,15 @@
           },
           {
             "type": "STRING",
+            "value": "Gravity"
+          },
+          {
+            "type": "STRING",
             "value": "Harvest"
+          },
+          {
+            "type": "STRING",
+            "value": "HealthDamage"
           },
           {
             "type": "STRING",
@@ -2340,7 +2384,15 @@
           },
           {
             "type": "STRING",
+            "value": "StunDamage"
+          },
+          {
+            "type": "STRING",
             "value": "Survey"
+          },
+          {
+            "type": "STRING",
+            "value": "TargetNodeType"
           },
           {
             "type": "STRING",

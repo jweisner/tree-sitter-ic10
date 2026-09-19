@@ -467,6 +467,10 @@
     "named": false
   },
   {
+    "type": "CurrentNodeType",
+    "named": false
+  },
+  {
     "type": "CurrentResearchPodType",
     "named": false
   },
@@ -488,6 +492,14 @@
   },
   {
     "type": "Discover",
+    "named": false
+  },
+  {
+    "type": "Dispense",
+    "named": false
+  },
+  {
+    "type": "DispenseSlot",
     "named": false
   },
   {
@@ -520,6 +532,14 @@
   },
   {
     "type": "ElevatorSpeed",
+    "named": false
+  },
+  {
+    "type": "EnergyConvected",
+    "named": false
+  },
+  {
+    "type": "EnergyRadiated",
     "named": false
   },
   {
@@ -599,6 +619,10 @@
     "named": false
   },
   {
+    "type": "Gravity",
+    "named": false
+  },
+  {
     "type": "Growth",
     "named": false
   },
@@ -616,6 +640,10 @@
   },
   {
     "type": "Health",
+    "named": false
+  },
+  {
+    "type": "HealthDamage",
     "named": false
   },
   {
@@ -1635,11 +1663,19 @@
     "named": false
   },
   {
+    "type": "StunDamage",
+    "named": false
+  },
+  {
     "type": "Sum",
     "named": false
   },
   {
     "type": "Survey",
+    "named": false
+  },
+  {
+    "type": "TargetNodeType",
     "named": false
   },
   {
@@ -2079,6 +2115,10 @@
     "named": false
   },
   {
+    "type": "clamp",
+    "named": false
+  },
+  {
     "type": "clr",
     "named": false
   },
@@ -2315,6 +2355,14 @@
     "named": false
   },
   {
+    "type": "rol",
+    "named": false
+  },
+  {
+    "type": "ror",
+    "named": false
+  },
+  {
     "type": "round",
     "named": false
   },
@@ -2372,6 +2420,10 @@
   },
   {
     "type": "sgez",
+    "named": false
+  },
+  {
+    "type": "sgn",
     "named": false
   },
   {
